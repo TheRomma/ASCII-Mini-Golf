@@ -1,0 +1,28 @@
+{
+  "ball": {
+    "x": 100,
+    "y": 100
+  },
+  "hole": {
+    "x": 700,
+    "y": 500
+  },
+  "level": {
+    "current": "res/level/level5.json",
+    "next": "res/level/levelFinal.json"
+  },
+  "container": [
+    {
+      "x": 600,
+      "y": 80,
+      "w": 700,
+      "h": 400
+    },
+    {
+      "x": 300,
+      "y": 500,
+      "w": 600,
+      "h": 200
+    }
+  ]
+}
